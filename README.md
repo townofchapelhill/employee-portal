@@ -1,4 +1,4 @@
-Simple responsive dashboard with links to commonly used services at the Town of Chapel Hill. <A HREF="http://icomoon.io">Icomoon supplied the vector fonts.</a>
+Simple responsive dashboard with links to commonly used services at the Town of Chapel Hill. <A HREF="http://icomoon.io">Icomoon</a> supplied the vector icons.
 
 
 <pre>
